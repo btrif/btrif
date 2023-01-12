@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @btrif
-- 👀 I’m interested in Python development, API, DeepLearning
+- 👀 I’m interested in Python development, API, DeepLearning, Graph Theory, Graph Neural Networks
 - 🌱 I’m currently learning FastAPI
-- 💞️ I’m looking to collaborate on projects involing API, automation and MAchine Learning
+- 💞️ I’m looking to collaborate on projects involing API, automation and Machine Learning
 - 📫 How to reach me : Skype : trifbogdan
 
 <!---
